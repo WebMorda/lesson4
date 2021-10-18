@@ -1,5 +1,4 @@
 package pro.sky.lesson4.services;
-
 import pro.sky.lesson4.models.Employee;
 
 public interface IEmployeeService {
